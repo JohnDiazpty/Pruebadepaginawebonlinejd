@@ -1,0 +1,11 @@
+header{
+background-color: rgb(166, 0, 255);
+color: aliceblue;
+text-align: center;
+
+}
+footer{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
